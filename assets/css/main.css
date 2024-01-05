@@ -1673,7 +1673,7 @@
 				color: #e4e4e4;
 				width: 1.65em;
 				height: 1.65em;
-				border-radius: 1.65em;
+				border-radius: 1em;
 				line-height: 1.65em;
 				text-align: center;
 				box-shadow: 0.125em 0.175em 0 0 rgba(0, 0, 0, 0.125);
@@ -1835,7 +1835,7 @@
 			}
 
 			#banner-wrapper {
-				padding: 3em 0 3em 0;
+				padding: 3em 0 2em 0;
 			}
 
 			#main-wrapper {
@@ -2222,7 +2222,7 @@
 				-webkit-transition: -webkit-transform 0.5s ease;
 				-ms-transition: -ms-transform 0.5s ease;
 				transition: transform 0.5s ease;
-				padding-bottom: 1px;
+				padding-bottom: 0.5px;
 			}
 
 			#titleBar {
